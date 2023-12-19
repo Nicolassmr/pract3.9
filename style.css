@@ -1,0 +1,14 @@
+div.caja1{
+    
+    background-color: aqua;
+    height: 20px;
+    width: 1150px;
+}
+
+div.caja2{
+    background-color: yellow;
+    border: 2px solid red;
+    height: 100px;
+    width: 1100px;
+    display: inline-block;
+}
